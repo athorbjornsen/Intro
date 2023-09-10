@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+  }
+  
+.purple-border {
+  border: 2px solid purple;
+  }
+
+  .blue-border {
+    border: 2px solid rgb(28, 0, 128);
+  }
+
+ul li {
+  margin-bottom: 8px;
+  max-width: fit-content;
+  }
